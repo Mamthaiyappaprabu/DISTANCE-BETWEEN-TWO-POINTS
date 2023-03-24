@@ -40,7 +40,7 @@ print("{:.2f}".format(distance))
 
 
 ## OUTPUT:
-![model](out.png)
+![model](dis.png)
 
 ## RESULT:
 Thus the distance between the two points is successfully obtained
